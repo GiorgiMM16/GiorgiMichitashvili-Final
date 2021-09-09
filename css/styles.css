@@ -1,0 +1,200 @@
+.wrapper{
+    width: 1366px;
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 10px;
+}
+.nav-text{
+    width: 326px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #2289FF;
+    margin-right: 120px;
+}
+.nav-photo{
+    width: 100%;
+    position: absoulte;
+    margin-left: 200px;
+}
+.nav-rectangle{
+    position: absolute;
+    margin-top: 50px;
+}
+body{
+    overflow-x: hidden;
+}
+.warwera{
+    position: absolute;
+    margin: 100px;
+}
+.apartament{
+    width: 100%;
+    position: absolute;
+    font-family: 'Playfair Display', serif;
+    font-size: 48px;
+    color: #14395B;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.xaxvi{
+    position: absolute;
+}
+.kerdzo{
+    font-size: 25px;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #2289FF;
+    text-decoration: underline;
+}
+.group{
+    width: 100%;
+    position: absolute;
+    margin-top: 160px;
+    font-size: 25px;
+    font-family: 'Noto Sans KR', sans-serif;
+    display: flex;
+    justify-content: space-evenly;}
+.axali{
+        width: 100%;
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 40px;}
+
+.uaxlesi{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 130px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 33px;
+    z-index: 10;
+    color: white;
+}
+.xmali{
+    position: absolute;
+    width: 488px;
+    margin-top: 390px;
+    margin-left: 120px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    z-index: 10;
+    color: white;
+    
+}
+.lurja{
+    margin-top: 260px;
+    margin-left: 100px;
+    position: absolute;
+    z-index: 5;}
+
+.xaxvuli{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 752px;
+}
+.xatatuli{
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 100px;
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    color: #14395B;
+}
+.marwkvi{
+    position: absolute;
+    margin-top: 1400px;
+    margin-left: 100px;
+}
+.kojo{
+    position: absolute;
+    margin-top: 950px;
+    margin-left: 600px;
+}
+.kojorma{
+    position: absolute;
+    margin-top: 2000px;
+
+}
+.kejagma{
+    position:absolute;
+    margin-top: 2000px;
+    margin-left: 440px;
+}
+.group1{
+    position:absolute;
+    margin-top: 2100px;
+}
+.group2{
+    position:absolute;
+    margin-top: 2100px;
+    margin-left: 300px;
+}
+.group3{
+    position:absolute;
+    margin-top: 2100px;
+    margin-left: 600px;
+}
+.group4{
+    position:absolute;
+    margin-top: 2100px;
+    margin-left: 900px;
+}
+.surface{
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 1056px;
+}
+.group5{
+    position:absolute;
+    margin-top: 2350px;
+}
+.group6{
+    position:absolute;
+    margin-top: 2350px;
+    margin-left: 300px;
+}
+.group7{
+    position:absolute;
+    margin-top: 2350px;
+    margin-left: 600px;
+}
+.home{
+    position:absolute;
+    margin-top: 2450px;
+    margin-left: 755px;
+}
+.group8{
+    position: absolute;
+    margin-top: 2350px;
+    margin-left: 900px;
+}
+.free{
+    position: absolute;
+    margin-top: 2900px;
+    margin-left: 350px;
+}
+.grid{
+    position: absolute;
+    margin-top: 3050px;
+    margin-left: 50px; 
+}
+.ruxi{
+    position: absolute;
+    margin-top: 3700px;
+}
+.copy{
+    position: absolute;
+    margin-top: 3725px;
+    margin-left: 50px;
+}
+.right{
+    position: absolute;
+    margin-top: 3725px;
+    margin-left: 1100px;
+}
